@@ -15,7 +15,7 @@ Set version to 3.0.1.
 
 <img src="https://github.com/yuyuma17/ScreenVersionUpdate/blob/master/Demo/demo1.png"> 
 
-Launch's label is empty.
+LaunchScreen's label is empty.
 
 <img src="https://github.com/yuyuma17/ScreenVersionUpdate/blob/master/Demo/demo2.png"> 
 
